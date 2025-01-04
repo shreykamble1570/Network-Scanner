@@ -42,6 +42,12 @@ A lightweight Python-based tool designed to identify and map active devices on a
    ```  
 
 ---
+####ScreenShot's:-
+1.Single Host Scan:
+![image](https://github.com/user-attachments/assets/adf388db-226d-443b-b7cf-d9b740af0303)
 
 #### Disclaimer:  
 This project is intended for educational and ethical purposes only. Unauthorized use of network scanning tools may violate laws or ethical guidelines. Always obtain proper authorization before scanning any network.  
+
+
+
